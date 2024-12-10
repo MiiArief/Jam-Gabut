@@ -130,7 +130,7 @@ body {
     text-align: center;
     transform: rotate(calc(15deg * var(--i))) translateY(var(--label-offset)) rotate(var(--label-rotation));
     white-space: nowrap;
-    font-size: 12px;
+    font-size: 14px;
     color: black;
     z-index: 1;
     /* Ensure labels are on top of lines */
